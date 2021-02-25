@@ -1,0 +1,9 @@
+C:\Users\kaykylopes\Documents\controleFinanceiro\ControleFinanceiro.BBL\bin\Debug\netcoreapp3.1\ControleFinanceiro.BBL.deps.json
+C:\Users\kaykylopes\Documents\controleFinanceiro\ControleFinanceiro.BBL\bin\Debug\netcoreapp3.1\ControleFinanceiro.BBL.dll
+C:\Users\kaykylopes\Documents\controleFinanceiro\ControleFinanceiro.BBL\bin\Debug\netcoreapp3.1\ControleFinanceiro.BBL.pdb
+C:\Users\kaykylopes\Documents\controleFinanceiro\ControleFinanceiro.BBL\obj\Debug\netcoreapp3.1\ControleFinanceiro.BBL.csprojAssemblyReference.cache
+C:\Users\kaykylopes\Documents\controleFinanceiro\ControleFinanceiro.BBL\obj\Debug\netcoreapp3.1\ControleFinanceiro.BBL.AssemblyInfoInputs.cache
+C:\Users\kaykylopes\Documents\controleFinanceiro\ControleFinanceiro.BBL\obj\Debug\netcoreapp3.1\ControleFinanceiro.BBL.AssemblyInfo.cs
+C:\Users\kaykylopes\Documents\controleFinanceiro\ControleFinanceiro.BBL\obj\Debug\netcoreapp3.1\ControleFinanceiro.BBL.csproj.CoreCompileInputs.cache
+C:\Users\kaykylopes\Documents\controleFinanceiro\ControleFinanceiro.BBL\obj\Debug\netcoreapp3.1\ControleFinanceiro.BBL.dll
+C:\Users\kaykylopes\Documents\controleFinanceiro\ControleFinanceiro.BBL\obj\Debug\netcoreapp3.1\ControleFinanceiro.BBL.pdb
